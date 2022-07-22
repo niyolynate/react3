@@ -1,0 +1,5 @@
+# React3https://www.google.com/search?q=react+logo&sxsrf=ALiCzsZhqUKYxLsYMFwBUtOK3EA1LiDQNg:1658491324930&tbm=isch&source=iu&ictx=1&vet=1&fir=4fP0joQQKRm5dM%252Cnfz2qKo0MFLwMM%252C_%253BviJ6CsTiT3pOsM%252CdzSQNmg7y31FRM%252C_%253BWDPCa6Z6RBR5NM%252CVar_LIv212P3EM%252C_%253BVYSK64ht6By-HM%252CKItUjdMMkHg-cM%252C_%253BSzpvEYHViHUsiM%252C-7A9AeeI19H36M%252C_%253BVC2rXIpzlzTjNM%252CJ2x9vamw5cwXrM%252C_%253BtnQcliHBGWKTQM%252CZGMLBPeSpQI89M%252C_%253B5_nzDIadpA83ZM%252CDLYmFFxQmtDtIM%252C_%253B2ok5HHQsPYSrPM%252CyO-G2aEym9Z10M%252C_%253B-vYWSSUJSgyCuM%252CB13yhKGVSakc5M%252C_%253BMSSyCe7_ULQ8ZM%252CqqHG1Z74A67wIM%252C_%253BaGXc6cFOdfEBMM%252CCIN5OfA4KDqouM%252C_%253BzuJy1Z_Fny293M%252C1_-8vQf6fGMR2M%252C_&usg=AI4_-kQPhjA2Gf4M4z7p6oCDa-cd26Ydrw&sa=X&ved=2ahUKEwjs4aPSuYz5AhV__bsIHaSAD6QQ9QF6BAgEEAE&biw=1242&bih=597&dpr=1.1#imgrc=zuJy1Z_Fny293M
+Building a react APP
+its my first app, so alot of bugs musgt be there, wait will clean this mess slowly.
+
+its the what am working on this week.
